@@ -41,10 +41,8 @@
   <export>
     <build_type>ament_cmake</build_type>
     <rosindex>
-      <readme>
-        doc/README.md
-        doc/SECOND_README.md
-      </readme>
+      <readme>doc/README.md</readme>
+      <readme>doc/SECOND_README.md</readme>
     </rosindex>
   </export>
 </package>
